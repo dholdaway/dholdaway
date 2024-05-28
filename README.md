@@ -9,11 +9,26 @@
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,github,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,java,nextjs,mysql,postgres" />
-    <img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
-    <img src="https://skillicons.dev/icons?i=kubernetes,docker" />
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,reactivex,nodejs,python,javascript,typescript,express,nextjs&perline=8" />
+  </a>
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgres&perline=4" />
+  </a>
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp&perline=3" />
+  </a>
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kubernetes,docker,git&perline=3" />
+  </a>
+</p>
+</p>
+</p>
+</p>
 </div>
 
 <br/>
@@ -25,7 +40,6 @@
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=dholdaway&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=dholdaway&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=dholdaway&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
