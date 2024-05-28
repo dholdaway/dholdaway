@@ -1,11 +1,17 @@
 ### Hi there 👋
 # I'm Darren, founder @ Dismantle Technologies 🏗️
 
-- 🤖 I'm Developer / Founder / Ethical hacker @ [Dsimantle Technologies](https://dismantle.io)
-- 🌱 I enjoy helping early stage startups solve technical issues, scaling issues and everything else.
-- 👯 I love policies and process
-- 😃 Alias: dholdaway
-- ⚡ Fun fact: I am really good at what i do...
+As the Founder of Dismantle Technologies, I specialize in technology strategy and innovation consultancy, helping startups overcome technical and scaling challenges. My expertise spans a broad range of technologies including Python, Node.js, IoT, Unity, C#, and cloud-based microservices.
+
+My professional journey includes significant roles in various high-profile companies where I implemented serverless solutions, ensured cybersecurity compliance (SOC2, ISO27001), and led technology roadmaps.
+
+I am passionate about helping early-stage startups solve their most pressing technical issues, and I thrive in environments where I can drive innovation and efficiency. My professional alias is dholdaway, and I am known for transforming complex problems into innovative solutions.
+
+🤖 I'm a Developer / Founder / Ethical Hacker @ Dismantle Technologies
+🌱 I enjoy helping early-stage startups solve technical issues, scaling challenges, and everything else.
+👯 I love policies and processes.
+😃 Alias: dholdaway
+⚡ Fun fact: I am really good at what I do...
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
