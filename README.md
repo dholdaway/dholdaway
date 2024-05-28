@@ -14,10 +14,10 @@ My professional alias is **dholdaway**, and **I am known for** transforming comp
 <div align="center">
 
 🤖 I'm a Developer / Founder / Ethical Hacker **@ Dismantle Technologies**  
-🌱 I enjoy helping early-stage startups solve technical issues, scaling challenges
-👯 I love **policies and processes**
-😃 Alias: dholdaway
-⚡ Fun fact: I am really good at what I do...
+🌱 I enjoy helping early-stage startups solve technical issues, scaling challenges  
+👯 I love **policies and processes**  
+😃 Alias: dholdaway  
+⚡ Fun fact: I am really good at what I do...  
 
 </div>
 
